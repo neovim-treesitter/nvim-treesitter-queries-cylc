@@ -1,9 +1,9 @@
 {
-  "lang": "cylc",
+  "generate_from_json": null,
   "url": "https://github.com/elliotfontaine/tree-sitter-cylc",
   "semver": false,
   "parser_version": "6d1d81137112299324b526477ce1db989ab58fb8",
   "location": null,
-  "generate_from_json": null,
+  "lang": "cylc",
   "generate": null
 }
